@@ -2,4 +2,4 @@ title: SampleSite
 #logo
 description: Samplesite for Rational GRC
 #show_downloads: true
-theme: jekyll-theme-minimal
+theme:jekyll-theme-minimal
